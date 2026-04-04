@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/savepong/hello-hapi#readme",
   "dependencies": {
-    "@hapi/hapi": "^20.0.0"
+    "@hapi/hapi": "^21.4.8"
   }
 }
